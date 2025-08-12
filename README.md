@@ -244,8 +244,8 @@ pip install pandas numpy sentence-splitter transformers SentencePiece torch goog
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bank-sentiment-analysis.git
-   cd bank-sentiment-analysis
+   git clone https://github.com/ali27kh/Bank_Sentiment_Analysis.git
+   cd Bank_Sentiment_Analysis
    ```
 2. Place `positive_sa.csv`, `positive_safinal2.csv`, `negative_sa.csv`, and `negative_safinal2.csv` in the project folder.
 3. Install dependencies (see Requirements section).
